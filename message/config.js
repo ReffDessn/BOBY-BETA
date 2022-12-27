@@ -6,9 +6,9 @@ global.report = {
 }
 
 // Nomor Owner
-global.ownerNumber = ["6285849261085@s.whatsapp.net"]
-global.owner = ["6285849261085"]
-global.ownerName = ["Febriansyah"]
+global.ownerNumber = ["6282252285143@s.whatsapp.net"]
+global.owner = ["6282252285143"]
+global.ownerName = ["ʀʏᴀɴ ᴏɴʟʏ ᴄᴇᴇs"]
 
 global.gamewaktu = '60'
 global.limitCount = '50'
@@ -19,13 +19,13 @@ global.gcount = {
 }
 
 // Setting Bot
-global.botName = 'Boby - Bot'
+global.botName = 'ʀʏᴀɴ-ᴍᴅ'
 global.sessionName = 'boby'
 
 
 // EXIF
-global.packname = 'BOBY'
-global.author = 'PebriSyalan️'
+global.packname = 'ʀʏᴀɴ-ᴍᴅ'
+global.author = 'ʙʏ ᴡʜᴀᴛsᴀᴘᴘ️'
 
 //List Menu
 global.listmenu = { 
